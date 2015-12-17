@@ -1,0 +1,16 @@
+#content{
+	text-align: center;
+}
+#propozice{
+	width: 100%;
+}
+#propozice td{
+	text-align: left;
+	padding-top: 10px;
+}
+.left{
+	width: 150px;
+	padding-right: 25px;
+	text-align: right !important;
+	vertical-align: top;
+}

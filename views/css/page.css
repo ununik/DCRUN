@@ -1,0 +1,80 @@
+body{
+	background-color: #233F47;
+}
+body *{
+	color: #D7E4E7;
+	font-family: 'Coda', cursive;
+}
+body a{
+	color: #96B0C0;
+	text-decoration: none;
+}
+body a:hover{
+	text-decoration: underline;
+}
+#content{
+	display: block;
+	margin: 80px auto;
+	width: 75%;
+}
+#footer{
+	clear: both;
+	width: 100%;
+	text-align: center;
+	margin: 35px 0px 15px 0px;
+}
+#header{
+	height: 250px;
+	margin: 40px 0px 0px 0px;
+	background-image: url(../../images/page/background.jpg);
+}
+#headline{
+	color: #233F47;
+	top: -1px;
+	left: 5px;
+	position: absolute;
+	font-size: 45px;
+}
+nav{
+	width: 100%;
+	position: absolute;
+	left: 0px;
+	background-color: #799AA4;
+	text-align: center;
+}
+nav a{
+	width: 106px;
+	padding: 8px;
+	display: inline-block;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #233F47;
+	margin: 3px 0px;
+}
+nav a:hover{
+	background-color: #799AA4;
+	color: #233F47;
+	text-decoration: none;
+}
+#topLink{
+	background-color: #799AA4;
+	width: 100%;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	text-align: center;
+}
+#topLink a{
+	width: 106px;
+	padding: 4px 20px;
+	text-align: center;
+	display: inline-block;
+	background-color:#233F47;
+	margin: 3px 0px;
+	font-size: 14px;
+}
+#topLink a:hover{
+	background-color: #799AA4;
+	color: #233F47;
+	text-decoration: none;
+}
